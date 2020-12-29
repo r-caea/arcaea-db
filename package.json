@@ -1,14 +1,17 @@
 {
   "name": "@r-caea/arcaea-db",
-  "version": "3.4.0",
+  "version": "3.4.0-hotfix",
   "description": "Package storing the latest data of songs and partners for Arcaea",
-  "main": "index.js",
+  "main": "index.mjs",
+  "exports": {
+    "import": "index.mjs",
+    "require": "index.js"
+  },
+  "type": "module",
   "scripts": {},
   "keywords": [],
   "author": "Thanapat Bhunnachet",
   "license": "MIT",
   "dependencies": {
-    "sqlite": "^4.0.18",
-    "sqlite3": "^5.0.0"
   }
 }
