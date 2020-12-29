@@ -1,0 +1,294 @@
+{
+  "partners": [
+    {
+      "name": "hikari",
+      "en_name": "Hikari",
+      "jp_name": "光",
+      "character_id": 0,
+      "char_type": 1
+    },
+    {
+      "name": "tairitsu",
+      "en_name": "Tairitsu",
+      "jp_name": "対立",
+      "character_id": 1,
+      "char_type": 0
+    },
+    {
+      "name": "kou",
+      "en_name": "Kou",
+      "jp_name": "紅",
+      "character_id": 2,
+      "char_type": 0
+    },
+    {
+      "name": "sapphire",
+      "en_name": "Sapphire",
+      "jp_name": "サファイア",
+      "character_id": 3,
+      "char_type": 0
+    },
+    {
+      "name": "lethe",
+      "en_name": "Lethe",
+      "jp_name": "レーテー",
+      "character_id": 4,
+      "char_type": 0
+    },
+    {
+      "name": "missingno",
+      "character_id": 5
+    },
+    {
+      "name": "tairitsu_yugamu",
+      "en_name": "Tairitsu (Axium)",
+      "jp_name": "Axium 対立",
+      "character_id": 6,
+      "char_type": 0
+    },
+    {
+      "name": "tairitsu_grievous_lady",
+      "en_name": "Tairitsu (Grievous Lady)",
+      "jp_name": "Grievous Lady 対立",
+      "character_id": 7,
+      "char_type": 2
+    },
+    {
+      "name": "stella",
+      "en_name": "Stella",
+      "jp_name": "ステラ",
+      "character_id": 8,
+      "char_type": 0
+    },
+    {
+      "name": "hikari_fisica_quon",
+      "en_name": "Hikari & Fisica",
+      "jp_name": "光＆フィシカ",
+      "character_id": 9,
+      "char_type": 1
+    },
+    {
+      "name": "ilith",
+      "en_name": "Ilith",
+      "jp_name": "イリス",
+      "character_id": 10,
+      "char_type": 2
+    },
+    {
+      "name": "eto",
+      "en_name": "Eto",
+      "jp_name": "エト",
+      "character_id": 11,
+      "char_type": 0
+    },
+    {
+      "name": "luna",
+      "en_name": "Luna",
+      "jp_name": "ルナ",
+      "character_id": 12,
+      "char_type": 0
+    },
+    {
+      "name": "shirabe",
+      "en_name": "Shirabe",
+      "jp_name": "調",
+      "character_id": 13,
+      "char_type": 0
+    },
+    {
+      "name": "hikari_zero",
+      "en_name": "Hikari (Zero)",
+      "jp_name": "Zero 光",
+      "character_id": 14,
+      "char_type": 2
+    },
+    {
+      "name": "hikari_fracture",
+      "en_name": "Hikari (Fracture)",
+      "jp_name": "Fracture 光",
+      "character_id": 15,
+      "char_type": 3
+    },
+    {
+      "name": "hikari_summer",
+      "en_name": "Hikari (Summer)",
+      "jp_name": "サマー 光",
+      "character_id": 16,
+      "char_type": 1
+    },
+    {
+      "name": "tairitsu_summer",
+      "en_name": "Tairitsu (Summer)",
+      "jp_name": "サマー 対立",
+      "character_id": 17,
+      "char_type": 0
+    },
+    {
+      "name": "tairitsu_trin",
+      "en_name": "Tairitsu & Trin",
+      "jp_name": "対立＆トリン",
+      "character_id": 18,
+      "char_type": 0
+    },
+    {
+      "name": "ayu",
+      "en_name": "Ayu",
+      "jp_name": "彩夢",
+      "character_id": 19,
+      "char_type": 0
+    },
+    {
+      "name": "eto_luna_winter",
+      "en_name": "Eto & Luna",
+      "jp_name": "ウィンター エト＆ルナ",
+      "character_id": 20,
+      "char_type": 1
+    },
+    {
+      "name": "yume",
+      "en_name": "Yume",
+      "jp_name": "ユメ",
+      "character_id": 21,
+      "char_type": 0
+    },
+    {
+      "name": "hikari_seine",
+      "en_name": "Hikari & Seine",
+      "jp_name": "光＆セイネ",
+      "character_id": 22,
+      "char_type": 0
+    },
+    {
+      "name": "saya",
+      "en_name": "Saya",
+      "jp_name": "サヤ",
+      "character_id": 23,
+      "char_type": 0
+    },
+    {
+      "name": "gl_penguin",
+      "en_name": "Tairitsu (Grievous Lady) & Chuni Penguin",
+      "jp_name": "Grievous Lady 対立＆チュウ二ペンギン",
+      "character_id": 24,
+      "char_type": 0
+    },
+    {
+      "name": "chuni_penguin",
+      "en_name": "Chuni Penguin",
+      "jp_name": "チュウ二ペンギン",
+      "character_id": 25,
+      "char_type": 0
+    },
+    {
+      "name": "haruna",
+      "en_name": "Haruna",
+      "jp_name": "はるな",
+      "character_id": 26,
+      "char_type": 0
+    },
+    {
+      "name": "nono",
+      "en_name": "Nono",
+      "jp_name": "ノノ",
+      "character_id": 27,
+      "char_type": 0
+    },
+    {
+      "name": "mtaxxx",
+      "en_name": "Pandora Nemesis",
+      "jp_name": "パンドラネメシス",
+      "character_id": 28,
+      "char_type": 2
+    },
+    {
+      "name": "mda21",
+      "en_name": "Regulus",
+      "jp_name": "レグルス",
+      "character_id": 29,
+      "char_type": 2
+    },
+    {
+      "name": "kanae",
+      "en_name": "Kanae",
+      "jp_name": "叶永",
+      "character_id": 30,
+      "char_type": 0
+    },
+    {
+      "name": "hikari_ost",
+      "en_name": "Hikari (Fantasia)",
+      "jp_name": "Fantasia 光",
+      "character_id": 31,
+      "char_type": 0
+    },
+    {
+      "name": "tairitsu_ost",
+      "en_name": "Tairitsu (Sonata)",
+      "jp_name": "Sonata 対立",
+      "character_id": 32,
+      "char_type": 0
+    },
+    {
+      "name": "sia",
+      "en_name": "Sia",
+      "jp_name": "シア",
+      "character_id": 33,
+      "char_type": 0
+    },
+    {
+      "name": "doroc",
+      "en_name": "DORO*C",
+      "jp_name": "DORO*C",
+      "character_id": 34,
+      "char_type": 0
+    },
+    {
+      "name": "tairitsu_tempest",
+      "en_name": "Tairitsu (Tempest)",
+      "jp_name": "Tempest 対立",
+      "character_id": 35,
+      "char_type": 2
+    },
+    {
+      "name": "brilliante",
+      "en_name": "Brillante",
+      "jp_name": "ブリランテ",
+      "character_id": 36,
+      "char_type": 2
+    },
+    {
+      "name": "ilith_summer",
+      "en_name": "Ilith (Summer)",
+      "jp_name": "サマー イリス",
+      "character_id": 37,
+      "char_type": 2
+    },
+    {
+      "name": "saya_ost",
+      "en_name": "Saya (Etude)",
+      "jp_name": "Etude サヤ",
+      "character_id": 38,
+      "char_type": 0
+    },
+    {
+      "name": "alice_tenniel",
+      "en_name": "Alice & Tenniel",
+      "jp_name": "アリス＆テニエル",
+      "character_id": 39,
+      "char_type": 0
+    },
+    {
+      "name": "luna_mia",
+      "en_name": "Luna & Mia",
+      "jp_name": "ルナ＆美亜",
+      "character_id": 40,
+      "char_type": 0
+    }
+  ],
+  "type": [
+    "Support",
+    "Balance",
+    "Challenge",
+    "???"
+  ]
+}
