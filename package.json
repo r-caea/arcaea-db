@@ -1,6 +1,6 @@
 {
   "name": "@r-caea/arcaea-db",
-  "version": "3.4.0-hotfix",
+  "version": "3.4.0-patch",
   "description": "Package storing the latest data of songs and partners for Arcaea",
   "main": "./index.mjs",
   "exports": {

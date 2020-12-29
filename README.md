@@ -1,5 +1,5 @@
 # Arcaea Resource Database
-> Package storing the latest data of songs and partners for Arcaea"
+> Package storing the latest data of songs and partners for Arcaea
 
 ## Disclaimer
 This repository (and package) is intended for personal use only.
@@ -10,7 +10,8 @@ This repository (and package) is intended for personal use only.
 
 ## Installation
 ```sh
-npm i @r-caea/arcaea-db@3.4.0-hotfix # have to specify version until the newer version comes out
+# have to specify this version until the newer version comes out
+npm i @r-caea/arcaea-db@3.4.0-patch 
 ```
 
 ## Usage
