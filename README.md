@@ -11,7 +11,7 @@ This repository (and package) is intended for personal use only.
 ## Installation
 ```sh
 # have to specify this version until the newer version comes out
-npm i @r-caea/arcaea-db@3.4.0-patch 
+npm i @r-caea/arcaea-db@3.4.0-rc 
 ```
 
 ## Usage
