@@ -8,5 +8,23 @@ This repository (and package) is intended for personal use only.
 - Partners (`db/partners.json`)
 - Songs (`db/songs.json`
 
-## Changelog
-- Update to v3.4.0
+## Installation
+```sh
+npm i @r-caea/arcaea-db@3.4.0-hotfix # have to specify version until the newer version comes out
+```
+
+## Usage
+```javascript
+// CommonJS
+const { partners, songs } = require('@r-caea/arcaea-db')
+
+// ES6
+import { partners, songs } from '@r-caea/arcaea-db'
+```
+
+## Credits
+- [BotArcAPI](https://github.com/TheSnowfield/BotArcAPI) for song database
+- Myself for partner database
+
+## License
+Licensed under `MIT License`
