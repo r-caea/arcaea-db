@@ -2,10 +2,10 @@
   "name": "@r-caea/arcaea-db",
   "version": "3.4.0-hotfix",
   "description": "Package storing the latest data of songs and partners for Arcaea",
-  "main": "index.mjs",
+  "main": "./index.mjs",
   "exports": {
-    "import": "index.mjs",
-    "require": "index.js"
+    "import": "./index.mjs",
+    "require": "./index.js"
   },
   "type": "module",
   "scripts": {},
