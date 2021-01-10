@@ -22,6 +22,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial version
 
-[3.4-1]: https://github.com/r-caea/arcaea-db/compare/v3.4.0-rc...v3.4.1
+[3.4.1]: https://github.com/r-caea/arcaea-db/compare/v3.4.0-rc...v3.4.1
 [3.4.0-rc]: https://github.com/r-caea/arcaea-db/compare/v3.4.0-rc...v3.4.0
 [3.4.0]: https://github.com/r-caea/arcaea-db/releases/tag/v3.4.0
