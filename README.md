@@ -6,12 +6,11 @@ This repository (and package) is intended for personal use only.
 
 ## Elements
 - Partners (`db/partners.json`)
-- Songs (`db/songs.json`
+- Songs (`db/songs.json`)
 
 ## Installation
 ```sh
-# have to specify this version until the newer version comes out
-npm i @r-caea/arcaea-db@3.4.0-rc 
+npm i @r-caea/arcaea-db 
 ```
 
 ## Usage

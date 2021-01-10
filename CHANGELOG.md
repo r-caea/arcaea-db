@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.1] - 2021-1-10
+### Added
+- Song info from maimai Collaboration
+### Changed
+- Update README.md
+
 ## [3.4.0-rc] - 2020-12-30
 ### Added
 - `index.mjs` for ES6 module import
@@ -16,5 +22,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial version
 
+[3.4-1]: https://github.com/r-caea/arcaea-db/compare/v3.4.0-rc...v3.4.1
 [3.4.0-rc]: https://github.com/r-caea/arcaea-db/compare/v3.4.0-rc...v3.4.0
 [3.4.0]: https://github.com/r-caea/arcaea-db/releases/tag/v3.4.0

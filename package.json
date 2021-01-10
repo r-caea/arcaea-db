@@ -1,6 +1,6 @@
 {
   "name": "@r-caea/arcaea-db",
-  "version": "3.4.0-rc",
+  "version": "3.4.1",
   "description": "Package storing the latest data of songs and partners for Arcaea",
   "main": "./index.mjs",
   "exports": {
@@ -12,6 +12,5 @@
   "keywords": [],
   "author": "Thanapat Bhunnachet",
   "license": "MIT",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
