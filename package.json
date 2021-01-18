@@ -6,13 +6,15 @@
     "type": "git",
     "url": "https://github.com/r-caea/arcaea-db"
   },
-  "main": "./index.mjs",
+  "main": "./index.js",
   "exports": {
     "import": "./index.mjs",
     "require": "./index.js"
   },
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "build": "node build/index.js"
+  },
   "keywords": [],
   "author": "Thanapat Bhunnachet",
   "license": "MIT",

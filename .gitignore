@@ -1,5 +1,7 @@
 .idea/
 node_modules/
+build/arcsong.db
+build/songs.json
 arcsong.db
 package-lock.json
 user-me.json
