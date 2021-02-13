@@ -283,6 +283,27 @@
       "jp_name": "ルナ＆美亜",
       "character_id": 40,
       "char_type": 0
+    },
+    {
+      "name": "areus",
+      "en_name": "Areus",
+      "jp_name": "アレウス",
+      "character_id": 41,
+      "char_type": 2
+    },
+    {
+      "name": "seele",
+      "en_name": "Seele",
+      "jp_name": "セーレ",
+      "character_id": 42,
+      "char_type": 2
+    },
+    {
+      "name": "isabelle",
+      "en_name": "Isabelle",
+      "jp_name": "イゼヴェル",
+      "character_id": 42,
+      "char_type": 2
     }
   ],
   "type": [

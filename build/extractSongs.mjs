@@ -3,8 +3,12 @@
 import fs from 'fs'
 import sqlite3 from 'sqlite3'
 import { open } from 'sqlite'
+import { dirname } from 'path'
+import { fileURLToPath } from 'url'
 
-const { writeFile } = fs.promises
+const __dirname = dirname(fileURLToPath(import.meta.url))
+
+const { readFile, writeFile } = fs.promises
 
 const columnNames = [
   'sid',                 'name_en',
@@ -31,7 +35,8 @@ async function connect (dbPath) {
 }
 
 (async () => {
-  const db = await connect('arcsong.db')
-  let res = await db.all(`select ${columnNames.join(', ')} from songs`)
-  await writeFile('songs.json', JSON.stringify(res, null, 2), 'utf8')
+  const db = await connect(`${__dirname}/arcsong.db`)
+  const songs = await db.all(`select ${columnNames.join(', ')} from songs`)
+
+  await writeFile(`${__dirname}/songs.json`, JSON.stringify(songs, null, 2), 'utf8')
 })()
