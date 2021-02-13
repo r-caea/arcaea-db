@@ -1,22 +1,20 @@
 {
   "name": "@r-caea/arcaea-db",
-  "version": "3.4.1",
+  "version": "3.5.1",
   "description": "Package storing the latest data of songs and partners for Arcaea",
   "repository": {
     "type": "git",
     "url": "https://github.com/r-caea/arcaea-db"
   },
   "main": "./index.js",
-  "exports": {
-    "import": "./index.mjs",
-    "require": "./index.js"
-  },
-  "type": "module",
   "scripts": {
-    "build": "node build/index.js"
+    "build": "./build/build.sh"
   },
   "keywords": [],
   "author": "Thanapat Bhunnachet",
   "license": "MIT",
-  "dependencies": {}
+  "devDependencies": {
+    "sqlite": "^4.0.19",
+    "sqlite3": "^5.0.1"
+  }
 }
